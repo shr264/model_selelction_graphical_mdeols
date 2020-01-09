@@ -1,4 +1,4 @@
-# model_selelction_graphical_models
+# Inferring the Partial Correlation Structure of Allelic Effects and Incorporating it in Genome-wide Prediction
 
 ## Data description
 
